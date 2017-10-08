@@ -1,5 +1,1 @@
-# cautious-spoon
-
-## R Code for Data Wrangling
-
-Updating http://jeffreycarllong.com.
+## Updating http://jeffreycarllong.com.
